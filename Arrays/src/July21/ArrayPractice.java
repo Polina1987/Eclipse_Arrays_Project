@@ -3,6 +3,8 @@ package July21;
 import java.util.Arrays;
 
 public class ArrayPractice {
+	
+	//adding to GitHub
 
 	public static void main(String[] args) {
 		String[] str  = {"Poli", "Polli", "Polly"};
