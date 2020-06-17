@@ -5,7 +5,7 @@ public class MoreArrays {
 
 	public static void main(String[] args) {
 		
-		//adding to GitHub
+		//adding to GitHub; practice
 
 // 4 is number of elements, new is new object          
 /*         int [] numbers2 = {1, 2, 3, 4};//    
